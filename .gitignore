@@ -1,0 +1,6 @@
+
+.env.development
+data/html/*
+data/mysql/*
+!data/html/.gitkeep
+!data/mysql/.gitkeep
